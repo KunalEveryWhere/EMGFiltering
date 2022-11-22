@@ -21,6 +21,7 @@ shortData = [
     [0, 5, 7, 3],
     [3, 4, 7, 4]
 ]
+
 After Step 2, 3 and 4: 
 shortData = [
     [5.5, 5],
